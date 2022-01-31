@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @its-iresse
+- 👋 Hi, I’m @its-ireese
 - 👀 I’m interested in tech, cars and sports. 
 - 🌱 I’m currently learning Java then going to go into Python.
 - 💞️ I’m looking to collaborate on anything that I can learn from and help me grow my knowledge. 

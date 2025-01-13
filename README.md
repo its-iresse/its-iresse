@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Derrice but you can call me Reese (@its-ireese). 
 - 👀 I’m interested in tech, cars and sports. 
-- 🌱 I’m currently learning Java then going to go into Python.
+- 🌱 While mastering Java, going to be learning Python.
 - 💞️ I’m looking to collaborate on anything that I can learn from and help me grow my knowledge. 
 - 📫 Send me a message on discord at its_ireese or send an email to webwrightdigital@gmail.com
 
